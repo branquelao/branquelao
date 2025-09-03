@@ -2,7 +2,7 @@
 
 **`Back-end Developer`**
 
-I started having interest in programming at the end of 2023, so I decided to start at the start of 2024 while studying CS in College.I was very interested in the field of Systems Analysis and Development, especially backend development so I initially started learned to program in C++ and Python, and during my college semesters I began to specialize in Java. Recently started an internship working with C#, being my preferred language for now.
+I started having interest in programming at the end of 2023, so I decided to start at the start of 2024 while studying CS in College. I was very interested in the field of Systems Analysis and Development, especially backend development so I initially started learned to program in C++ and Python, and during my college semesters I began to specialize in Java. Recently started an internship working with C#, being my preferred language for now.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/henriquetozzonarciso/">
@@ -16,7 +16,7 @@ I started having interest in programming at the end of 2023, so I decided to sta
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -28,4 +28,5 @@ I started having interest in programming at the end of 2023, so I decided to sta
 ### 📊 My Stats
 
 ![branquelao's GitHub stats](https://github-readme-stats.vercel.app/api?username=branquelao&show_icons=true&theme=algolia)
+![branquelao's Language stats]("https://github-readme-stats.vercel.app/api?username=branquelao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")
 
