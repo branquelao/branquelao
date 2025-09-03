@@ -28,5 +28,4 @@ I started having interest in programming at the end of 2023, so I decided to sta
 ### 📊 My Stats
 
 ![branquelao's GitHub stats](https://github-readme-stats.vercel.app/api?username=branquelao&show_icons=true&theme=algolia)
-![branquelao's Language stats](https://github-readme-stats.vercel.app/api?username=branquelao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-
+![branquelao's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=branquelao&layout=compact&langs_count=7&theme=algolia)
