@@ -7,7 +7,7 @@ I started having interest in programming at the end of 2023, so I decided to sta
    <p align="left">
       <a href="https://www.linkedin.com/in/henriquetozzonarciso/">
          <img alt="Linkedin" title="Check my Linkedin profile" src="https://custom-icon-badges.demolab.com/badge/-My%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
-         <img alt="Phone Number" title="So you can call me" src="https://custom-icon-badges.demolab.com/badge/-19--993317253-orange?style=for-the-badge&logo=phone&logoColor=white"/></a> 
+         <img alt="Phone Number" title="So you can call me" src="https://custom-icon-badges.demolab.com/badge/-19--993317253-green?style=for-the-badge&logo=phone&logoColor=white"/></a> 
          <img alt="Where I live" title="To give me a visit" src="https://custom-icon-badges.demolab.com/badge/São Paulo-BRAZIL-purple?style=for-the-badge&logo=location&logoColor=white"/></a>
          <img alt="My email" title="So you can send me something" src="https://custom-icon-badges.demolab.com/badge/-henriquetozzonarciso@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
    </p>
