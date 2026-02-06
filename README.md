@@ -2,7 +2,7 @@
 
 **`Back-end Developer`**
 
-I started having interest in programming at the end of 2023, so I decided to start at the start of 2024 while studying CS in College. I was very interested in the field of Systems Analysis and Development, especially backend development so I initially started learned to program in C++ and Python, and during my college semesters I began to specialize in Java and SQL. Recently started an internship working with C#, assisting in the development of Web APIs, and for now being my preferred language to program in.
+I started my programming journey at the end of 2023 and began studying Computer Science in early 2024. My focus has been on backend development and systems integration, initially learning C++ and Python, then specializing in Java and SQL during my college semesters. Currently working as a Development Assistant at Sologix, where I develop and maintain REST APIs using .NET, work with relational databases, and build Android applications. C# has become my preferred language, and I'm passionate about creating robust backend solutions and exploring data-driven development.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/henriquetozzonarciso/">
