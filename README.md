@@ -2,7 +2,7 @@
 
 **`Back-end Developer`**
 
-I started my programming journey at the end of 2023 and began studying Computer Science in early 2024. My focus has been on backend development and systems integration, initially learning C++ and Python, then specializing in Java and SQL during my college semesters. Worked as a Development Assistant at Sologix, where I developed and maintained REST APIs using .NET, worked with relational databases, and built Android applications. C# has become my preferred language, and I'm passionate about creating robust backend solutions and exploring data-driven development.
+I started my programming journey at the end of 2023 and began studying Computer Science in early 2024. My focus has been on backend development and systems integration, initially learning C++ and Python, then specializing in Java and C# throughout my academic and professional experience. Currently working as a Development Assistant at Sologix, where I develop and maintain REST APIs using .NET, integrate with relational databases performing CRUD operations, participate in RFID testing and validation, and build Android applications with socket communication and API endpoints. C# has become my preferred language for building desktop applications with WinUI3 and REST APIs, though I also enjoy working with Java and Spring Boot for backend solutions. I'm passionate about creating robust, scalable systems and exploring fullstack development with focus on data-driven architecture.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/henriquetozzonarciso/">
