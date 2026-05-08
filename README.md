@@ -2,9 +2,9 @@
 
 **`Back-end Developer`**
 
-Backend-focused Computer Science student with hands-on experience in .NET REST APIs, relational databases, Android integrations and RFID validation.
-Currently working at Sologix developing scalable backend solutions using C#, .NET, Java and Spring Boot.
-Interested in distributed systems, desktop applications and fullstack architecture.
+Computer Science student focused on backend with hands-on experience in .NET REST APIs, relational databases, Android integrations and RFID validation.<br>
+Development Intern at Sologix working with .NET REST APIs, SQL databases, RFID validation, and Android integrations.<br>
+Interested in distributed systems, desktop applications and fullstack architecture.<br>
 
    <p align="left">
       <a href="https://www.linkedin.com/in/henriquetozzonarciso/">
