@@ -5,5 +5,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring,git,cpp,visualstudio,js,py,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,git,cpp,visualstudio,docker,js,py,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
